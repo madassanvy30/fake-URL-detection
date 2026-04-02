@@ -1,0 +1,5 @@
+Model,Accuracy,Precision,Recall,F1 Score,ROC-AUC
+Random Forest,1.0,1.0,1.0,1.0,1.0
+Gradient Boosting,1.0,1.0,1.0,1.0,1.0
+Logistic Regression,1.0,1.0,1.0,1.0,1.0
+SVM (RBF),1.0,1.0,1.0,1.0,1.0
